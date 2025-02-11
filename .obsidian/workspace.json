@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General Skills.md",
+                "file": "picoCTF/General Skills-01/Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Skills"
+              "title": "Bases"
             }
           }
         ],
@@ -197,10 +197,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a36ce5791ff87fe5",
+  "active": "47e924f4a3d0ed5b",
   "lastOpenFiles": [
-    "picoCTF/General Skills.md",
+    "picoCTF/General Skills-01/Obedient Cat.md",
+    "picoCTF/General Skills-01/Bases.md",
+    "picoCTF/General Skills-01/2Warm.md",
+    "picoCTF/General Skills-01/Lets Warm UP.md",
     "plantilla.md",
+    "picoCTF/General Skills-01",
+    "picoCTF/General Skills.md",
     "README.md",
     "Bienvenido.md",
     "picoCTF"
