@@ -9,6 +9,8 @@ Solucion
 Con cat
 ```
 DiegoR09-picoctf@webshell:~$ cat flag
+
+Resultado:
 picoCTF{s4n1ty_v3r1f13d_1a94e0f9}
 ```
 

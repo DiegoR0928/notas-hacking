@@ -10,5 +10,6 @@ Input: 42
 Recipe: From Decimal -> To Binary
 Output: 101010
 
+Flag:
 picoCTF{101010}
 ```

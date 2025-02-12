@@ -11,6 +11,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> chr(0x70)
 'p'
 
+Flag:
 picoCTF{p}
 ```
 
