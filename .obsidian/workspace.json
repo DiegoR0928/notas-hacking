@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General Skills-01/Warmed Up.md",
+                "file": "picoCTF/General Skills-02/Based.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warmed Up"
+              "title": "Based"
             }
           }
         ],
@@ -199,21 +199,35 @@
   },
   "active": "47e924f4a3d0ed5b",
   "lastOpenFiles": [
+    "picoCTF/General Skills-02/Big Zip.md",
+    "picoCTF/General Skills-02/First Find.md",
+    "picoCTF/General Skills-02/Magikarp Ground Mission.md",
+    "picoCTF/General Skills-02/Repetitions.md",
+    "picoCTF/General Skills-02/Static ain't always noise.md",
+    "picoCTF/General Skills-02/Strings it.md",
+    "picoCTF/General Skills-02/Tab, Tab, Atack.md",
+    "picoCTF/General Skills-02/useless.md",
+    "picoCTF/General Skills-02/Wave a Flag.md",
+    "picoCTF/General Skills-02/Based.md",
+    "picoCTF/General Skills-01/Warmed Up.md",
+    "README.md",
+    "picoCTF/General Skills-01/Sin título.md",
+    "picoCTF/General Skills-02",
+    "picoCTF/Propios/Vault-door5.md",
+    "picoCTF/Propios/Scan surprise.md",
+    "picoCTF/Propios/Verify.md",
+    "picoCTF/General Skills-01/Nice netcat....md",
+    "picoCTF/General Skills-01/Obedient Cat.md",
     "picoCTF/General Skills-01/what's a net cat.md",
     "picoCTF/General Skills-01/2Warm.md",
+    "picoCTF/Propios",
+    "picoCTF/General Skills-01/Lets Warm UP.md",
     "picoCTF/General Skills-01/Bases.md",
     "picoCTF/General Skills-01/Glitch Cat.md",
-    "picoCTF/General Skills-01/Lets Warm UP.md",
-    "picoCTF/General Skills-01/Nice netcat....md",
     "picoCTF/General Skills-01/plumbing.md",
     "picoCTF/General Skills-01/First Grep.md",
-    "picoCTF/General Skills-01/Obedient Cat.md",
-    "picoCTF/General Skills-01/Warmed Up.md",
     "plantilla.md",
     "picoCTF/General Skills-01",
-    "picoCTF/General Skills.md",
-    "README.md",
-    "Bienvenido.md",
     "picoCTF"
   ]
 }
