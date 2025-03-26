@@ -3,7 +3,7 @@ There is some interesting information hidden around this site http://mercury.pic
 Hints.
 You should have enough hints to find the files, don't run a brute forcer.
 
-Solución
+# Solución
 Primero analizar el código de la página para ver la primera parte de la flag en el HTML
 ```
 <!-- Here's the first part of the flag: picoCTF{t -->
