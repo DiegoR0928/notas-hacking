@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web3/More SQLi.md",
+                "file": "picoCTF/Forensic 1/What Lies Within.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "More SQLi"
+              "title": "What Lies Within"
             }
           }
         ],
@@ -213,9 +213,16 @@
   },
   "active": "7e7ae409707dc2ec",
   "lastOpenFiles": [
+    "picoCTF/Forensic 1/So Meta.md",
+    "picoCTF/Forensic 1/shark on wire 1.md",
+    "picoCTF/Forensic 1/Glory of the Garden.md",
+    "picoCTF/Forensic 1/Extensions.md",
+    "picoCTF/Forensic 1/What Lies Within.md",
+    "picoCTF/Web3/More SQLi.md",
+    "picoCTF/Forensic 1",
+    "picoCTF/Forensic 1.md",
     "picoCTF/Web3/jaWT Scratchpad.md",
     "picoCTF/Web3/Irish-Name-Repo1.md",
-    "picoCTF/Web3/More SQLi.md",
     "picoCTF/Web1/logon.md",
     "picoCTF/Web1/Insp3ct0r.md",
     "picoCTF/Web1/dont-use-client-side.md",
@@ -237,19 +244,12 @@
     "picoCTF/Tarea1 - General Skills/Permissions.md",
     "picoCTF/General Skills-03/PW Crack 3.md",
     "picoCTF/Tarea1 - General Skills/chrono.md",
-    "picoCTF/Tarea1 - General Skills/commitment issues.md",
-    "picoCTF/Tarea1 - General Skills/binhexa.md",
-    "picoCTF/Tarea1 - General Skills/Binary Search.md",
-    "picoCTF/Propios/Scan surprise.md",
     "picoCTF/Tarea1 - General Skills/Sin nombre",
     "picoCTF/Tarea1 - General Skills",
-    "picoCTF/General Skills-03/Serpentine.md",
-    "picoCTF/General Skills-03/Super SSH.md",
     "picoCTF/General Skills-03",
     "picoCTF/Sin título.canvas",
     "picoCTF/General Skills-02",
     "picoCTF/Propios",
-    "picoCTF/General Skills-01",
-    "picoCTF"
+    "picoCTF/General Skills-01"
   ]
 }
