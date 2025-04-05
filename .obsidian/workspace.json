@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 1/What Lies Within.md",
+                "file": "picoCTF/Web4/Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What Lies Within"
+              "title": "Trickster"
             }
           }
         ],
@@ -213,11 +213,21 @@
   },
   "active": "7e7ae409707dc2ec",
   "lastOpenFiles": [
+    "picoCTF/Web4/SOAP.md",
+    "picoCTF/Web4/Match the Regex.md",
+    "picoCTF/Web4/Most Cookies.md",
+    "picoCTF/Web4/Trickster.md",
+    "picoCTF/Tarea2 - Retos Web/IntroToBurp.md",
+    "picoCTF/Tarea2 - Retos Web/Local Authority.md",
+    "picoCTF/Tarea2 - Retos Web/Inspect HTML.md",
+    "picoCTF/Tarea2 - Retos Web/Includes.md",
+    "picoCTF/Forensic 1/What Lies Within.md",
+    "picoCTF/Tarea2 - Retos Web",
+    "picoCTF/Web4",
     "picoCTF/Forensic 1/So Meta.md",
     "picoCTF/Forensic 1/shark on wire 1.md",
     "picoCTF/Forensic 1/Glory of the Garden.md",
     "picoCTF/Forensic 1/Extensions.md",
-    "picoCTF/Forensic 1/What Lies Within.md",
     "picoCTF/Web3/More SQLi.md",
     "picoCTF/Forensic 1",
     "picoCTF/Forensic 1.md",
@@ -236,20 +246,10 @@
     "picoCTF/Web1/where are the robots.md",
     "Pasted image 20250320205730.png",
     "picoCTF/Web1",
-    "picoCTF/Tarea1 - General Skills/Collaborative Development.md",
-    "picoCTF/Tarea1 - General Skills/Time Machine.md",
-    "picoCTF/Tarea1 - General Skills/ASCII Numbers.md",
-    "picoCTF/Tarea1 - General Skills/Blame Game.md",
-    "picoCTF/Tarea1 - General Skills/Special.md",
-    "picoCTF/Tarea1 - General Skills/Permissions.md",
-    "picoCTF/General Skills-03/PW Crack 3.md",
-    "picoCTF/Tarea1 - General Skills/chrono.md",
     "picoCTF/Tarea1 - General Skills/Sin nombre",
     "picoCTF/Tarea1 - General Skills",
     "picoCTF/General Skills-03",
     "picoCTF/Sin título.canvas",
-    "picoCTF/General Skills-02",
-    "picoCTF/Propios",
-    "picoCTF/General Skills-01"
+    "picoCTF/General Skills-02"
   ]
 }
