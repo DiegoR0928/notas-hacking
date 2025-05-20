@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e570e0ce4db6174",
+        "id": "e7faedff120dfba6",
         "type": "tabs",
         "children": [
           {
-            "id": "1e08a5c75ec8a517",
+            "id": "acd849caa27fdddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea3 - Forensic/st3go.md",
+                "file": "picoCTF/Crypto - Parte 2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "st3go"
+              "title": "rsa-pop-quiz"
             }
           }
         ]
@@ -168,10 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e08a5c75ec8a517",
+  "active": "acd849caa27fdddd",
   "lastOpenFiles": [
-    "picoCTF/Tarea3 - Forensic/hideme.md",
+    "picoCTF/Untitled 1.md",
+    "picoCTF/Crypto - Parte 2/rsa-pop-quiz.md",
+    "picoCTF/Crypto - Parte 2",
+    "picoCTF/Untitled.md",
     "picoCTF/Tarea3 - Forensic/st3go.md",
+    "picoCTF/Tarea3 - Forensic/hideme.md",
     "picoCTF/Tarea3 - Forensic/Secret of the Polyglot.md",
     "picoCTF/Tarea3 - Forensic/Scan surprise.md",
     "picoCTF/Propios/Scan surprise.md",
@@ -195,11 +199,8 @@
     "picoCTF/Forensic4/Operation Orchid.md",
     "picoCTF/Forensic4/Sleuthkit Apprentice.md",
     "picoCTF/Forensic4/Sleuthkit Intro.md",
-    "picoCTF/Forensic4/Disk, disk, sleuth!.md",
-    "picoCTF/Forensic4/Milkslap.md",
     "Pasted image 20250320205730.png",
     "picoCTF/Forensic4",
-    "picoCTF/Untitled.md",
     "picoCTF/Forensic3",
     "Pasted image 20250415134828.png",
     "Pasted image 20250415134900.png",
@@ -213,7 +214,6 @@
     "picoCTF/Primer Parcial - Parte 1 - General Skills",
     "picoCTF/Tarea2 - Retos Web",
     "picoCTF/Web4",
-    "picoCTF/Forensic 1",
     "picoCTF/Sin título.canvas"
   ]
 }
