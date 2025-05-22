@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7faedff120dfba6",
+        "id": "e87b8f4a3c8da86d",
         "type": "tabs",
         "children": [
           {
-            "id": "acd849caa27fdddd",
+            "id": "7c4e6856f4c62e4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Crypto - Parte 2/rsa-pop-quiz.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "rsa-pop-quiz"
+              "title": "New tab"
             }
           }
         ]
@@ -168,10 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acd849caa27fdddd",
+  "active": "7c4e6856f4c62e4a",
   "lastOpenFiles": [
-    "picoCTF/Untitled 1.md",
+    "picoCTF/Crypto - Parte 3/Mini RSA.md",
+    "picoCTF/Crypto - Parte 3/Mind your Ps and Qs.md",
+    "picoCTF/Crypto - Parte 3/b00tl3gRSA3.md",
+    "picoCTF/Crypto - Parte 3/b00tl3gRSA2.md",
     "picoCTF/Crypto - Parte 2/rsa-pop-quiz.md",
+    "picoCTF/Crypto - Parte 3",
+    "picoCTF/Untitled 1.md",
     "picoCTF/Crypto - Parte 2",
     "picoCTF/Untitled.md",
     "picoCTF/Tarea3 - Forensic/st3go.md",
@@ -195,10 +196,6 @@
     "picoCTF/Crypto - Parte1/Caesar.md",
     "picoCTF/Crypto - Parte1/The Numbers.md",
     "picoCTF/Crypto - Parte1",
-    "picoCTF/Forensic4/Operation Oni.md",
-    "picoCTF/Forensic4/Operation Orchid.md",
-    "picoCTF/Forensic4/Sleuthkit Apprentice.md",
-    "picoCTF/Forensic4/Sleuthkit Intro.md",
     "Pasted image 20250320205730.png",
     "picoCTF/Forensic4",
     "picoCTF/Forensic3",
@@ -213,7 +210,6 @@
     "picoCTF/Forensic 2",
     "picoCTF/Primer Parcial - Parte 1 - General Skills",
     "picoCTF/Tarea2 - Retos Web",
-    "picoCTF/Web4",
     "picoCTF/Sin título.canvas"
   ]
 }
